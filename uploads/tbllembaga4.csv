@@ -1,0 +1,631 @@
+code,name
+8,UK Petra
+10,Balitbang Dephan
+12,Pussenkav TNI AD
+20,Kobang diklat
+21,Seskoad
+25,Pusintelad
+27,Rolitbang POLRI
+29,Puspenerbad
+30,Lemjiantek Kodiklat AD
+35,Badan Litbang Kehutanan
+43,SESPIM POLRI
+44,Pussenif AD
+1001,Universitas Sumatera Utara
+1002,Universitas Negeri Medan
+1004,Universitas Riau
+1005,Poltekes Palembang
+1008,Universitas Negeri Jakarta
+1012,Universitas Pendidikan Indonesia
+1015,Institut Pertanian Bogor
+1016,Universitas Diponegoro
+1018,Universitas Brawijaya
+1021,Institut Teknologi Sepuluh November
+1024,Universitas Sam Ratulangi
+1025,Universitas Negeri Makassar
+1026,Universitas Hasanuddin
+1028,Universitas Mataram
+1029,Universitas Negeri Gorontalo
+1030,Universitas Pattimura
+1031,Universitas Nusa Cendana
+1032,Universitas Negeri Papua
+1035,IKIP PGRI Madiun
+1036,IKIP PGRI Semarang
+1041,Institut Pertanian Stiper Yogyakarta
+1043,Institut Seni Indonesia Denpasar
+1044,Institut Seni Indonesia Yogyakarta
+1046,Institut Teknologi Medan
+1047,Institut Teknologi Nasional Malang
+1049,Politeknik Negeri Bandung
+1051,Politeknik Negeri Jakarta
+1052,Politeknik Negeri Kupang
+1054,Politeknik Negeri Medan
+1055,Politeknik Negeri Padang
+1058,Politeknik Negeri Pertanian Payakumbuh
+1060,Politeknik Negeri Samarinda
+1061,Politeknik Negeri Semarang
+1062,Politeknik Negeri Sriwijaya
+1063,Politeknik Negeri Ujung Pandang
+1065,Politeknik Pertanian Kupang
+1068,Politeknik Pos Indonesia
+1069,STIPER Jember
+1070,STSI Bandung
+1071,STSI Padang Panjang
+1074,Universitas Bengkulu
+1075,Universitas Haluoleo
+1077,Universitas Negeri Malang
+1079,Universitas Negeri Padang
+1080,Universitas Negeri Semarang
+1082,Universitas Negeri Yogyakarta
+1083,Universitas Negeri Sebelas Maret
+1084,Universitas Syiah Kuala
+1086,Universitas Terbuka
+1088,Universitas Udayana
+1090,Politeknik Negeri Bali
+2004,Universitas Trisakti
+2005,Universitas Nasional
+2006,Universitas 17 Agustus 1945 Surabaya
+2007,Universitas Muhammadiyah Jakarta
+2008,Universitas Atma Jaya
+2009,Universitas Atmajaya Yogyakarta
+2014,Universitas Islam Bandung
+2018,Universitas Kristen Duta Wacana
+2020,Universitas Kristen Satya Wacana
+2021,Universitas Muhammadiyah Malang
+2022,Universitas Surabaya
+2023,Universitas Hang Tuah
+2024,Universitas Petra
+2032,Universitas Kristen Artha Wacana
+2038,Akademi Medis Veteriner Puragabaya
+2040,Akademi Pariwisata Bunda
+2041,Akademi Pariwisata Indraphrasta Yogyakarta
+2044,Akademi Pertanian Yogyakarta
+2046,Akademi Peternakan Karang Anyar
+2050,Akpar Muhammadiyah Jember
+2053,Politeknik Kotabaru
+2054,Politeknik LPP Yogyakarta
+2055,Politeknik Manufaktur Bandung
+2057,Politeknik PPKP Yogyakarta
+2060,Politeknik Surakarta
+2061,Sekolah Tinggi Ekonomi Islam Yogyakarta
+2064,Sekolah Tinggi Ilmu Administrasi Mataram
+2066,Sekolah Tinggi Ilmu Bahasa Asing Dinamika Banjarbaru
+2068,Sekolah Tinggi Ilmu Ekonomi Darma Jaya Bandar Lampung
+2069,Sekolah Tinggi Ilmu Ekonomi Rahmaniyah Sekayu
+2070,Sekolah Tinggi Ilmu Ekonomi Adi Unggul Bhirawa Surakarta
+2072,Sekolah Tinggi Ilmu Ekonomi Al-Anwar Mojokerto
+2073,Sekolah Tinggi Ilmu Ekonomi Atma Bhakti Surakarta
+2075,Sekolah Tinggi Ilmu Indonesia Surabaya
+2077,Sekolah Tinggi Ilmu Ekonomi Kosgoro
+2078,Sekolah Tinggi Ilmu Ekonomi Malang Kucecwara Malang
+2079,Sekolah Tinggi Ilmu Ekonomi Mandala
+2081,Sekolah Tinggi Ilmu Ekonomi Stikubank Semarang
+2082,Sekolah Tinggi Ilmu Ekonomi Surakarta
+2085,Sekolah Tinggi Ilmu Ekonomi Widya Wiwaha Yogyakarta
+2086,Sekolah Tinggi Ilmu Kesehatan Hang Tuah
+2091,Sekolah Tinggi Ilmu Pertanian Surya Dharma
+2092,Sekolah Tinggi Ilmu Pertanian Cokroaminoto PalopoSekolah Tinggi Ilmu Pertanian STIPER Yamin
+2093,Sekolah Tinggi Ilmu Keguruan dan ilmu Pendidikan
+2099,Sekolah Tinggi Manajemen Informatika dan Teknik Komputer Surabaya
+2101,Sekolah Tinggi Teknik Lingkungan Yogyakarta
+2102,Sekolah Tinggi Teknologi Adisutjipto Yogyakarta
+2104,Sekolah Tinggi Teknologi Kelautan Balikdiwa Makassar
+2105,Sekolah Tinggi Teknologi Nasional Yogyakarta
+2108,Universitas 17 Agustus 1945 Semarang
+2109,Universitas 17 Agustus Jakarta
+2112,Universitas Achmad Yani Banjarmasin
+2113,Universitas Ahmad Dahlan Yogyakarta
+2122,Universitas Bung Hatta
+2123,Universitas Cendrawasih
+2124,Universitas Cokroaminoto Makassar
+2126,Universitas Djuanda Bogor
+2128,Universitas Dr. SOETOMO
+2130,Universitas Gajayana Malang
+2131,Universitas Galuh Ciamis
+2132,Universitas Gunadarma
+2134,Universitas Hindu Indonesia
+2135,Universitas IBA Palembang
+2136,Universitas Islam 45 Bekasi
+2138,Universitas Islam Batik Surakarta
+2139,Universitas Islam Indonesia
+2142,Universitas Islam Kalimantan Moch.Arsyad
+2144,Universitas Islam Makassar
+2145,Universitas Islam Malang
+2146,Universitas Islam Sultan Agung Semarang
+2147,Universitas Islam Sumatera
+2148,Universitas Janabrada Yogyakarta
+2149,Universitas Jayabaya
+2150,Universitas Jember
+2157,Universitas Katolik Widya Mandala Surabaya
+2158,Universitas Khairun Ternate
+2160,Universitas Komputer Indonesia Bandung
+2167,Universitas Lambung Mangkurat
+2168,Universitas Lancang Kuning
+2170,Universitas Madako Toli-toli
+2171,Universitas Madura
+2173,Universitas Mahasaraswati Denpasar
+2176,Universitas Mercu Buana
+2181,Universitas Muhammadiyah Bengkulu
+2182,Universitas Muhammadiyah Gresik
+2183,Universitas Muhammadiyah Jember
+2187,Universitas Muhammadiyah Mataram
+2188,Universitas Muhammadiyah Metro Lampung
+2189,Universitas Muhammadiyah Palangkaraya
+2190,Universitas Muhammadiyah Palu
+2191,Universitas Muhammadiyah Pare-pare
+2192,Universitas Muhammadiyah Ponorogo
+2195,Universitas Muhammadiyah Semarang
+2196,Universitas Muhammadiyah Sidoarjo
+2198,Universitas Muhammadiyah Sumatera Utara
+2199,Universitas Muhammadiyah Surabaya
+2200,Universitas baiturrahman
+2203,Universitas Mulawarman
+2204,Universitas Muria Kudus
+2205,Universitas Muslim Indonesia Makassar
+2206,Universitas NU Surakarta
+2210,Universitas Pekalongan
+2213,Universitas Pendidikan Nasional Denpasar
+2217,Universitas PGRI Yogyakarta
+2218,Universitas Proklamasi 45 Yogyakarta
+2219,Universitas Putra Bangsa Surabaya
+2220,Universitas Respati Indonesia
+2223,Universitas Sanata Dharma Yogyakarta
+2226,Universitas Serambi Mekkah
+2227,Universitas Siliwangi Tasikmalaya
+2230,Universitas STIKUBANK Semarang
+2231,Universitas Sulawesi Tenggara Kendari
+2232,Universitas Sultan Ageng Tirtayasa
+2235,Universitas Tarumanegara
+2236,Universitas Teknologi Yogyakarta
+2238,Universitas Tridinanti Palembang
+2239,Universitas Tunas Pembangunan
+2240,Universitas Veteran Bangun Nusantara Sukoharjo
+2241,Universitas Wage Rudolf Supratman
+2242,Universitas Wangsa Manggala Yogyakarta
+2245,Universitas Widya Gama Malang
+2246,Universitas Widya Mataram Yogyakarta
+302,PT. Pusri Wijaya
+309,PT. INTI
+406,PT. Martina Berto
+411,PT. Daliatexkesuma Bandung
+420,PT. Trimitra Binatama
+502,Departemen Perhubungan
+503,Departemen Perindustrian
+504,Kementerian Komunikasi dan Informatika
+505,Kementerian Pertahanan 
+506,TNI AD
+511,Departemen Kesehatan
+512,Departemen Kelautan dan Perikanan
+513,Departemen Pekerjaan Umum
+514,Departemen Hukum dan Hak Asasi Manusia
+515,Departemen Dalam Negeri
+517,Departemen Kehutanan
+518,Lembaga Riset Perkebunan Indonesia
+520,Departemen Sosial
+601,BAKOSURTANAL
+603,BATAN
+604,BMG
+605,BPPT
+609,LAPAN
+610,LIPI
+701,BALITBANGDA
+702,BAPPEDA
+703,DINAS
+704,LAIN-LAIN
+521,Kementrian Negara Riset dan Teknologi
+5302,Balitbang Prop Sulteng
+20091216,BALITBANG PROPINSI JAWA TIMUR
+3A,Akademi Kebidanan Estu Utomo
+4A,Akademi Keperawatan Nabila Padang Panjang
+5A,Akademi Keperawatan Universitas Muhammadiyah Ponorogo
+6A,Akademi Keperawatan Universitas Pembangunan Nasional Veteran
+9A,Akademi Pariwisata Muhammadiyah Jember
+10A,Akademi Pembangunan Pertanian Sumatera Barat
+12A,Akademi Peternakan Brahmaputra Yogyakarta
+13A,Akademi Sekteraris Manajemen LPI
+14A,akademi teknologi aub surakarta
+15A,Akademi Teknologi Warga Surakarta
+16A,Akasemi Analis Kimia YAPIKA Makassar
+17A,B2P3KS Press.
+18A,Badan Koordinasi Keluarga Berencana Nasional Puslitbang keluarga Sejahtera dan Peningkatan Kualitas Perempuan
+19A,Badan Pelatihan dan Pengembangan Sosial Departemen Sosial
+26A,Badan Penelitian dan Pengembangan Daerah Sumatera Selatan
+33A,Badan Penelitian dan Pengembangan Propinsi Jawa Timur
+34A,Badan Penelitian dan Pengembangan Propinsi Sumatera Barat
+37A,Badan Pengkajian Ekonomi, Keuangan dan Kerjasama Internasional
+38A,Badan Pertanahan Nasional
+39A,Bagian Hukum Pidana Universitas Jambi
+40A,Balai Arkeologi Denpasar
+41A,Balai Bahasa
+42A,Balai Bahasa Jayapura
+47A,Balai Kajian Sejarah dan Nilai Tradisional
+48A,Balai Penelitian Bioteknologi Perkebunan Indonesia
+59A,Balan Penelitian dan Pengembangan Propinsi Bengkulu
+61A,Bigraf
+62A,BPSNT Padang Press.
+63A,Budidaya Pertanian Sekolah Tinggi Pertanian Surya Dharma
+64A,Budidaya Tanaman Pangan Akademi Pertanian Yogyakarta APTA
+65A,Budidaya Tanaman Perkebunan Pertanian Negeri Pangkap
+66A,Citra Media
+67A,Coral Reel Rehabilitation and Management Program LIPI
+68A,Departemen Arkeologi Universitas Indonesia
+69A,Departemen Biologi Institut Pertanian Bogor
+77A,Departemen Sosiologi Universitas Indonesia
+78A,Direktorat Jenderal Pendidikan Tinggi Departemen Pendidikan Nasional
+79A,Direktorat Riset dan Pengabdian Masyarakat Universitas Indonesia
+131A,Universitas Nasional
+195A,Fakultas Ekonomi Universitas Lambung Mangkurat
+1104001,Akademi Bahasa Asing Bumigora Mataram
+1104002,Akademi Manajemen Informatika dan Komputer Taruna Probolinggo
+1104003,Akademi Maritim Yogayakarta
+1104004,Akademi Pariwisata Widya Nusantara
+1104005,Akademi Pelayaran Nasional Surakarta
+1104006,Akademi Perikanan Yogyakarta
+1104007,Akademi Peternakan Brahmaputera
+1104007,Akademi Peternakan Brahmaputra
+1104008,Akademi Peternakan Karanganyar
+1104009,Akademi Sekretari dan Manajemen Marsudirini ASMI Santa Maria Yogyakart
+1104010,Akademi Teknik PIRI
+1104011,Akademi Teknik Warga
+1104083,Akademi Teknologi Adi Unggul Bhirawa
+1104012,Akademi Teknologi Warga
+1104013,AKPRIND
+1104014,Badan  Penelitian dan Pengembangan dan Pendidikan dan Pelatihan
+1104015,Badan Koordinasi Keluarga Berencana Nasional
+1104063,BKKBN
+1104017,Departemen Agama
+25A1,Departemen Agama
+599A,Departemen ESDM
+1104017,Departemen Keuangan
+1104018,Departemen Pendidikan dan Kebudayaan
+73A1,Departemen Pendidikan Nasional
+1104019,Eja Pub
+1104020,Fakultas Ilmu Agama
+1104021,Ford Foundation
+1104022,Gender Universitas Sebelas Maret Surakarta
+1104023,IKIP Negeri Singaraja
+1104024,Industri Akademi Teknologi Adi Unggul Bhirawa
+1104025,Institut Agama Islam Negeri Raden Intan
+1104026,Institut Agama Islam Negeri Walisongo Semarang
+1104028,Institut Keguruan dan Ilmu Pendidikan Mataram 
+1104030,Institut Keguruan dan Ilmu Pendidikan Negeri Singaraja
+1104032,Institut Keguruan dan Ilmu Pendidikan PGRI Madiun
+1104034,Institut Keguruan dan Ilmu Pendidikan Saraswati Tabanan
+1104035,Institut Keguruan dan Ilmu Pendidikan Veteran Semarang
+1104037,Institut Pertanian STIPER Yogyakarta
+1104041,Institut Seni Indonesia
+1104042,Institut Seni Indonesia Padangpanjang  
+1104043,Institut Seni Indonesia Surakarta
+1104044,Institut Seni Indonesia Yoyakarta
+1104045,Institut Seni Rupa Indonesia Denpasar
+1104047,Institut Teknologi Adhi Tama Surabaya
+1104048,Institut Teknologi Bandung
+1104049,Institut Teknologi Bogor
+1104050,Institut Teknologi dan Sains Bandung
+1104051,Institut Teknologi Nasional
+1104053,Institut Teknologi Sepuluh Nopember Surabaya
+1104054,Institut Teknologi Telkom Bandung
+1104055,ITENAS BANDUNG 
+1104056,Jurusan Agronomi Universitas Pembangunan Nasional Veteran Jawa Timur
+1104057,Kaldera Pustaka Nusantara
+1104058,Kantor Bahasa Propinsi Sulawesi Tenggara
+1104059,Kebun Raya Cibodas Lembaga Ilmu Pengetahuan Indonesia
+1104060,Kehidupan Keagamaan Departemen Agama
+1104061,Kekemasyarakatan dan Kebudayaan Lembaga Ilmu Pengetahuan Indonesia
+1104065,Kementerian Agama
+1104069,Kepel Press
+1104072,Ketransmigrasian
+1104073,Komisi Nasional Hak Asasi Manusia
+1104074,Lektur Keagamaan
+1104075,Lembaga Administrasi Negara
+1104080,Lembaga Penjaminan Mutu Pendidikan Sulawesi Selatan
+1104082,Organisasi Perburuhan International
+1104084,Padma Pustaka
+1104088,Piramedia
+1104089,Politeknik Atma Jaya Makassar
+1104090,Politeknik Banjarnegara
+1104091,Politeknik Elektronika Negeri Institut Teknologi Sepuluh Nopember
+1104092,Politeknik Kesehatan Banjarmasin
+1104094,Politeknik Madiun
+1104095,Politeknik Muhammadiyah Karanganyar
+1104096,Politeknik Negeri Ambon
+100A1,Politeknik Negeri Bandung
+1104097,Politeknik Negeri Banjarmasin
+1104098,Politeknik Negeri Jakarta Depok
+1104100,Politeknik Negeri Lampung
+1104101,Politeknik Negeri Malang
+1104103,Politeknik Negeri Papua
+1104104,Politeknik Negeri Payakumbuh
+1104105,Politeknik Negeri Pontianak
+1104106,Politeknik NSC Surabaya
+1104107,Politeknik Pertanian Negeri
+1104108,Politeknik Pertanian Negeri Kupang
+1104109,Politeknik Pertanian Negeri Pangkep
+1104111,Politeknik Pertanian Negeri Payakumbuh
+1104112,Politeknik Pos Indonesia
+1104113,Politeknik Unggulan Sragen Yapenas
+1104114,Politeknik Universitas Indonesia
+1104115,Politeknis Negeri Malang
+1104116,Politiknik Negeri Bali
+1104117,POLRI
+1104118,Program Studi Biologi Universitas Tanjungpura
+1104119,Pusat Penelitian Kebijakan dan Inovasi Pendidikan
+1104120,PUSAT PENELITIAN KOPI DAN KAKAO INDONESIA 
+1104121,Pusat Pengembangan Geologi Nuklir
+1104122,Pusat Studi Agama dan Peradaban
+1104123,RS Kanker DHARMAIS 
+1104124,Sekolah Tinggi Ilmu Administrasi Pembangunan Jember
+1104125,Sekolah Tinggi Ilmu Ekonomi 45
+1104126,Sekolah Tinggi Ilmu Ekonomi Adi Unggul Bhirawa
+1104128,Sekolah Tinggi Ilmu Ekonomi AMM Mataram
+1104129,Sekolah Tinggi Ilmu Ekonomi AUB
+1104130,Sekolah TInggi Ilmu EKonomi Gempol
+1104131,Sekolah Tinggi Ilmu Ekonomi Indonesia
+1104132,Sekolah Tinggi Ilmu Ekonomi Indonesia Banjarmasin
+1104134,Sekolah Tinggi Ilmu Ekonomi Malangkucecwara Malang
+102A1,Sekolah Tinggi Ilmu Ekonomi Mandala
+1104135,Sekolah Tinggi Ilmu Ekonomi Mandala Jember
+1104136,Sekolah Tinggi Ilmu Ekonomi Mataram
+1104137,Sekolah Tinggi Ilmu Ekonomi Nahdlatul Ulama
+1104138,Sekolah Tinggi Ilmu Ekonomi Oemathonis Kupang
+1104140,Sekolah Tinggi Ilmu Ekonomi Perbanas Surabaya
+1104141,Sekolah Tinggi Ilmu Ekonomi Pontianak
+1104142,Sekolah Tinggi Ilmu Ekonomi STIKUBANK
+1104143,Sekolah Tinggi Ilmu Ekonomi Swasta Mandiri
+1104145,Sekolah Tinggi Ilmu Ekonomi Widya Gama Lumajang
+1104146,Sekolah Tinggi Ilmu Ekonomi Widya Mandala
+1104148,Sekolah Tinggi Ilmu Ekonomi Wiwaha
+1104149,Sekolah Tinggi Ilmu Ekonomi YPP
+1104150,Sekolah Tinggi Ilmu Hukum Jenderal Sudirman Lumajang
+1104153,Sekolah Tinggi Ilmu Kesehatan Avicenna
+1104154,Sekolah Tinggi Ilmu Manajemen
+1104155,Sekolah Tinggi Ilmu Sosial dan Ilmu Politik
+1104156,Sekolah Tinggi Informatika dan Komputer Indonesia Malang
+1104157,Sekolah Tinggi Keguruan dan Ilmu Pendidikan Bima
+1104158,Sekolah Tinggi Keguruan dan Ilmu Pendidikan Hamzanwadi Selong
+1104163,Sekolah Tinggi Keguruan dan Ilmu Pendidikan PGRI
+1104164,Sekolah Tinggi Keguruan dan Ilmu Pendidikan PGRI Banjarmasin
+1104165,Sekolah Tinggi Keguruan dan Ilmu Pendidikan PGRI Jombang
+1104166,Sekolah Tinggi Keguruan dan Ilmu Pendidikan PGRI Sumatera Barat
+1104167,Sekolah Tinggi Keguruan dan Ilmu Pendidikan PGRI Tulungagung
+1104168,Sekolah Tinggi Keguruan dan Ilmu Pendidikan STKIP Hamzanwadi
+1104172,Sekolah Tinggi Kesehatan
+1104173,Sekolah Tinggi Manajemen dan Ilmu Komputer
+1104174,Sekolah Tinggi Manajemen dan Ilmu Komputer Syaikh Zainuddin
+1104175,Sekolah Tinggi Manajemen Informasika dan Komputer STMIK Bumigora Mataram
+1104176,Sekolah Tinggi Manajemen Informatika dan Komputer Adi Unggul Bhirawa
+1104177,Sekolah Tinggi Manajemen Informatika dan Komputer Balikpapan
+1104178,Sekolah Tinggi Manajemen Informatika dan Komputer Bina Mulia
+1104179,Sekolah Tinggi Manajemen Informatika dan Komputer Bumigora
+1104180,Sekolah Tinggi Manajemen Informatika dan Komputer -STMIK-Bumigora Mataram
+1104181,Sekolah Tinggi Manajemen Informatika dan Komputer Widya Pratama
+1104182,Sekolah Tinggi Manajemen Informatika dan Teknin Komputer
+1104183,Sekolah Tinggi Manajemen Informatika Komputer Bali 
+1104184,Sekolah Tinggi Manajemen Informatika Komputer Banjarbaru
+1104185,Sekolah Tinggi Manajemen Informatika Komputer Uyelindo
+1104186,Sekolah Tinggi Pariwisata Trisakti
+1104187,Sekolah Tinggi Pertanian
+1104188,Sekolah Tinggi Pertanian Dharma Wacana
+1104189,Sekolah Tinggi Pertanian Jember
+1104190,Sekolah Tinggi Pertanian Surya Dharma
+1104191,Sekolah Tinggi Seni Indonesia
+1104192,Sekolah Tinggi Seni Indonesia Bandung
+1104193,Sekolah Tinggi Seni Indonesia Padangpanjang
+1104195,Sekolah Tinggi Seni Indonesia Surakarta
+1104196,Sekolah Tinggi Seni Rupa dan Desain Indonesia
+1104197,Sekolah Tinggi Teknik Lingkungan
+1104198,Sekolah Tinggi Teknologi Adisutjipto
+1104199,Sekolah Tinggi Teknologi Banten Jaya
+1104200,Sekolah Tinggi Teknologi Fatahillah
+1104201,Sekolah Tinggi Teknologi Industri Turen Malang
+1104202,Sekolah Tinggi Teknologi Industri Turen Malang
+1104203,Sekolah Tinggi Teknologi Nasional
+1104204,Sekolah Tinggi Teknologi Ronggolawe
+1104205,Sekolah Tingi Bahasa Asing Dinamik
+1104206,Sekolan Tinggi Manajemen Informatika dan Ilmu Komputer El Rahma Yogyakarta
+1104207,Sekretariat Jenderal DPR RI
+1104208,Sosial Ekonomi Pertanian
+1104209,STIE Pelita Nusantara Semarang
+1104210,STIMED Nusa Palapa Makassar
+1104212,Teknologi Universitas Diponegoro
+1104213,TNI AU
+1104600,TNI AU
+1104214,Uniaversitas Tanjungpura
+1104215,UNIKA Soegijapranata
+1104230,Universitas 
+1104232,Universitas 17 Agustus 1944
+1104232,Universitas 17 Agustus 1945
+1104233,Universitas 17 Agustus 1945 Samarinda
+1104238,Universitas 45 Makassar
+1104240,Universitas Abdurachman Saleh Sitobondo
+1104243,Universitas Abulyatama
+1104225,Universitas Airlangga
+1104251,Universitas Al Azhar Indonesia
+1104253,Universitas Andalas Padang
+1104254,Universitas Andi Djemma
+1104256,Universitas Balikpapan
+1104257,Universitas Bandung Raya
+1104258,Universitas Bangka Belitung
+1104259,Universitas Bangun Nusantara
+1104226,Universitas Bengkulu
+1104260,Universitas Bhayangkara Surabaya
+1104262,Universitas Bina Nusantara
+1104263,Universitas Borneo
+1104265,Universitas Bung Hatta Padang
+1104266,Universitas Ciputra
+1104267,Universitas Cokroaminoto
+1104268,Universitas Dian Nuswantoro
+1104227,Universitas Diponegoro
+1104269,Universitas Diponegoro Medan
+1104270,Universitas Diponegoro Semarang
+1104272,Universitas Djuanda
+1104274,Universitas Dr. Soetomo Surabaya
+1104276,Universitas Ekasakti Padang 
+1104277,Universitas Gadjah Mada
+1104278,Universitas Gunugn RInjani
+1104280,Universitas Hang Tuah Surabaya
+1104281,Universitas Hasannudin
+1104282,Universitas HKBP Nommensen
+1104218,Universitas Indonesia
+1104286,Universitas Internasional Batam
+1104287,Universitas Islam
+1104288,Universitas Islam Al-Azhar
+179A1,Universitas Islam Bandung
+1104289,Universitas Islam Batik
+1104291,Universitas Islam Jember
+1104292,Universitas Islam Kalimantan
+1104228,Universitas Islam Malang
+1104294,Universitas Islam Negeri Sunan Kalijaga
+1104295,Universitas Islam Nusantara
+1104296,Universitas Islam Sultan Agung
+1104297,Universitas Islam Sumatera Utara
+1104299,Universitas Islam Syekh Yusuf
+1104301,Universitas Jambi
+1104304,Universitas Janabadra Yogyakarta
+184A1,Universitas Jember
+1104306,Universitas Jenderal Soedirman Porwokerto
+1104309,Universitas Katalok Widya Mandala Surabaya
+1104310,Universitas Katolik Indonesia Atma Jaya
+1104311,Universitas Katolik Parahyangan
+1104313,Universitas Katolik Soegijapranata Semarang
+1104316,Universitas Katolik Widya Karya Malang
+1104317,Universitas Katolik Widya Mandala
+1104319,Universitas Khairun
+1104321,Universitas Kristen Artha Wacana Kupang
+192A1,Universitas Kristen Duta Wacana
+1104322,Universitas Kristen Immanuel Yogyakarta
+1104323,Universitas Kristen Indonesia Maluku
+1104324,Universitas Kristen Maranatha
+1104325,Universitas Kristen Petra
+134A1,Universitas Kristen Satya Wacana
+1104327,Universitas Lakinende
+1104328,UNIVERSITAS LAMPUNG 
+1104329,Universitas Lancang Kuning Pekanbaru
+1104330,Universitas Langlangbuana
+1104331,Universitas LPP Yogyakarta
+1104332,Universitas Ma Chung
+1104334,Universitas Mahasaraswati Mataram
+1104335,Universitas Makassar
+1104216,Universitas Mataram 
+1104336,Universitas Medan Area
+1104337,Universitas Mercu buana yogyakarta
+1104338,Universitas Merdeka
+1104339,Universitas Merdeka Madiun
+1104340,Universitas Merdeka Malang
+1104341,Universitas Merdeka Ponorogo
+1104342,Universitas Merdeka Surabaya
+1104343,Universitas Moch Sroedji Jember
+1104348,Universitas Muhamadiyah
+1104349,Universitas Muhamadiyah Purwokerto
+1104350,Universitas Muhamadiyah Sidoarjo
+1104351,Universitas Muhamamadiyah Malang
+1104352,Universitas Muhammadiyah
+1104353,Universitas Muhammadiyah Gresik
+1104354,Universitas Muhammadiyah Kupang
+1104355,Universitas Muhammadiyah Makassar
+1104356,Universitas Muhammadiyah Parepare
+1104357,Universitas Muhammadiyah Ponogoro
+1104358,Universitas Muhammadiyah Porwokerto
+1104361,Universitas Muhammadiyah Surakarta
+1104362,Universitas Muhammadiyah Syiah Kuala
+1104363,Universitas Muhammadiyah Yogyakarta
+1104365,Universitas Nahdlatul Ulama Surakarta
+1104366,Universitas Negeri Bali
+1104219,Universitas Negeri Jakarta
+1104367,Universitas Negeri Makkasar
+1104371,Universitas Negeri Medan
+110A1,Universitas Negeri Padang
+1104087,Universitas Negeri Papua
+1104372,Universitas Negeri Semarang
+1104368,Universitas Negeri Surabaya
+1104369,Universitas Negeri Syiah Kuala
+1104370,Universitas Negeri Yogykarta
+1104373,Universitas Nurtanio 
+1104374,Universitas Nusa Bangsa
+1104016,Universitas Padjadjaran
+1104377,Universitas Pakuan
+1104379,Universitas Palangka Raya
+1104382,Universitas Panca Bhakti
+1104383,Universitas Pancasila
+1104384,Universitas Paramadina
+1104385,Universitas Pattimura Ambon
+1104388,Universitas Pembangunan Nasional Veteran
+1104394,Universitas Pembangunan Nasional Veteran Jawa Timur
+1104396,Universitas Pembangunan Nasional Veteran Yogyakarta  
+1104398,Universitas Pembangunan Veteran
+1104221,Universitas Pendidikan Ganesha Singaraja
+1104402,Universitas Pendidikan Indonesia Bandung
+1104404,Universitas Pendidikan Nasional
+1104405,Universitas Pendidikan Nasional Undiknas
+1104407,Universitas Pertanian Negeri Kupang
+1104408,Universitas Peternakan Perikanan Muhammadiyah
+1104409,Universitas PGRI
+1104410,Universitas PGRI Adi Buana Surabaya 
+1104411,Universitas PGRI Ronggolawe Tuban
+1104412,Universitas Prof. Dr. Hazairin Bengkulu
+1104416,Universitas Prof. DR. Moestopo Beragama
+1104418,Universitas Proklamasi 45
+1104419,Universitas Putra Bangsa
+1104420,Universitas Putri Bangsa
+1104421,Universitas Sahid Surakarta
+1104422,Universitas Sam Ratulangi Manado 
+1104423,Universitas Sanata Dharma
+1104424,Universitas Sarjana Winata Tanamasiswa
+1104081,Universitas Sebelas Maret
+1104430,Universitas Sekolah Tinggi Ilmu Ekonomi Indonesia
+1104431,Universitas Semarang
+1104433,Universitas Serambi Mekkah Banda Aceh
+1104434,Universitas Setia Budi
+1104435,Universitas Siliwangi
+1104436,Universitas Sinata Dharma Yogyakarta
+1104438,Universitas Singaperbangsa Karawang
+1104439,Universitas Sintuwu Maroso Poso 
+1104440,Universitas Slamet Riyadi
+1104441,Universitas Slamet Riyadi Surakarta
+1104442,Universitas Soegijapranata
+1104443,Universitas Sriwijaya
+1104444,Universitas Stikubank
+1104445,Universitas Sultan Ageng Tirtayasa Banten
+1104447,Universitas Sumatera Barat
+1104448,Universitas Surakarta
+1104449,Universitas Syah Kuala
+1104508,Universitas Syiah Kuala
+1104450,Universitas Syiah Kuala Banda Aceh
+1104453,Universitas Tadulako Palu
+1104454,Universitas Tamansiswa
+1104455,Universitas Tamansiswa Padang
+1104457,Universitas Tanjungpura Pontianak
+1104458,Universitas Tarumanagara
+1104461,Universitas Tribhuwana Tunggadewi Malang
+1104464,Universitas Trunojoyo Madura
+1104465,Universitas Tulungagung
+1104466,Universitas Tunas Pembangunan Surakarta
+1104229,Universitas Udayana
+1104467,Universitas Veteran Bangun Nusantara
+1104469,Universitas W.R. Supratman
+1104470,Universitas Wangsa Manggala
+1104471,Universitas Warmadewa
+1104472,Universitas Widayagama Malang
+1104473,Universitas Widya Dharma
+1104474,Universitas Widya Gama
+1104476,Universitas Widya Mandala Madiun
+1104477,Universitas Widya Mandira Kupang
+1104478,Universitas Widya Mataram
+1104480,Universitas Widyagama Malang
+1104483,Universitas Widyatama
+1104485,Universitas Wijaya Kusuma Surabaya
+1104486,Universitas Wijaya Putra
+1104492,Universitas Winaya Mukti Sumedang
+1104493,Universitas Wisnu Wardhana Malang
+1104496,Universitas WR. Supratman Surabaya
+1104497,Universitas Yarsi
+1104498,Universitas Yogyakarta
+1104499,Universitas Yos Soedarso Surabaya
+1104500,Universitas Yudharta
+1104501,Universtas Jambi
+1104502,Univesitas Bengkulu
+1104016,Univesitas Padjadjaran
+1104505,Univesitas Tanjungpura
+1104506,Univesrsitas Wijaya Kusuma Surabaya
+1104507,Unversitas Jember
+1104509,Widya Sari press.
