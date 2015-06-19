@@ -9,7 +9,11 @@
     <title>Portal Telusur Inovasi</title>
     <meta name="description" content="">
     <meta name="viewport" content="width=device-width, initial-scale=1">
+<<<<<<< HEAD
     <link href='http://fonts.googleapis.com/css?family=Source+Sans+Pro:300,400,600,700,900,300italic,400italic,600italic,700italic' rel='stylesheet' type='text/css'>
+=======
+    <link href='http://fonts.googleapis.com/css?family=Source+Sans+Pro:300,400,600,700,900,300italic,400italic,600italic,700italic' rel='stylesheet' type='text/css'>-->
+>>>>>>> 174f60662d21c67715ad26742ac985acef4b2681
      <!-- Place favicon.ico and apple-touch-icon.png in the root directory -->
     <link rel="apple-touch-icon" href="apple-touch-icon-precomposed.png">
     <link rel="shortcut icon" href="favicon.png">
@@ -82,9 +86,12 @@
     <div class="container">
         <div class="center">
             <h1 class="title">Portal Telusur Inovasi</h1>
+<<<<<<< HEAD
             <p>Portal Telusur Inovasi (Potensi) menyediakan berbagai sarana dan fasilitas bagi inovator nasional untuk mendapatkan berbagai informasi tentang inovasi nasional. 
                Peran serta para inovator nasional sangat dibutuhkan dalam memperkaya konten Potensi, agar Potensi bisa lebih berkembang dan bermanfaat. 
             </p>
+=======
+>>>>>>> 174f60662d21c67715ad26742ac985acef4b2681
         </div>     
     </div>
 </div>
@@ -106,10 +113,13 @@
 <section class="eventform newsection">
     <div class="container">
         <div class="row">
+<<<<<<< HEAD
         <div class="col-md-3">
                 <small>Find what you want</small>
                 <h2 class="title">event or conference</h2>
             </div>
+=======
+>>>>>>> 174f60662d21c67715ad26742ac985acef4b2681
             <div class="col-md-9 eventform-con">
 				<?php
 					$kategori='';
@@ -125,8 +135,11 @@
                     <div class="form-input search-location">
                         <input type="text" value="" placeholder="Cari inovasi..." name="key">
 						<!--input type="hidden" name="q" id="search-box" value="<?php //$search_terms; ?>" -->						
+<<<<<<< HEAD
                     <i class="icon icon-s fa fa-search"></i>
                         <button class="icon fa fa-globe"></button>
+=======
+>>>>>>> 174f60662d21c67715ad26742ac985acef4b2681
                     </div>                    
                 <?php echo form_close(); ?>				
             

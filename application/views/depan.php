@@ -2,7 +2,14 @@
 	<!--Event Detail  -->
 	<section class="event-detail newsection">	
 		<?php if($cari == 0){ ?>
+<<<<<<< HEAD
 		
+=======
+		<h3 class="title">Sekilas tentang POTENSI</h3>
+		<p>Portal Telusur Inovasi (Potensi) menyediakan berbagai sarana dan fasilitas bagi inovator nasional untuk mendapatkan berbagai informasi tentang inovasi nasional. 
+			   Peran serta para inovator nasional sangat dibutuhkan dalam memperkaya konten Potensi, agar Potensi bisa lebih berkembang dan bermanfaat. 
+			</p>
+>>>>>>> 174f60662d21c67715ad26742ac985acef4b2681
 		<br>
 		<?php } ?>
 		<div class="clearfix">

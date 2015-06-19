@@ -144,7 +144,11 @@ body{
 	font-family:"Source Sans Pro", Helvetica, Arial, sans-serif;
 	font-size:14px;
 	font-weight:normal;
+<<<<<<< HEAD
 	background:#f9f9f9;
+=======
+	background:#cfcfcf;
+>>>>>>> 174f60662d21c67715ad26742ac985acef4b2681
 	color:#2d3e50;
 	text-align:left;
 }
@@ -311,7 +315,11 @@ input:focus,textarea:focus{
 
 .main-header.affix{
 	top:0px;
+<<<<<<< HEAD
 	background:#fff;
+=======
+	background:#2B2B2B;
+>>>>>>> 174f60662d21c67715ad26742ac985acef4b2681
 	width:100%;
 	z-index:999;
 	padding:5px 0;
@@ -332,10 +340,16 @@ input:focus,textarea:focus{
 
 .sb-search {
 	position: relative;
+<<<<<<< HEAD
 	margin-top: 10px;
 	width: 30px;
 	height: 35px;
 	float: right;
+=======
+	margin: 0px auto;
+	width: 30px;
+	height: 35px;
+>>>>>>> 174f60662d21c67715ad26742ac985acef4b2681
 	overflow: hidden;
 	-webkit-transition: width 0.3s;
 	-moz-transition: width 0.3s;
@@ -350,7 +364,11 @@ input:focus,textarea:focus{
 	border: none;
 	outline: none;
 	background: none;
+<<<<<<< HEAD
 	width: 150px;
+=======
+	width: 80%;
+>>>>>>> 174f60662d21c67715ad26742ac985acef4b2681
 	height: 35px;
 	margin: 0;
 	z-index: 10;
@@ -411,7 +429,12 @@ input:focus,textarea:focus{
 /* Open state */
 .sb-search.sb-search-open,
 .no-js .sb-search {
+<<<<<<< HEAD
 	width: 180px;
+=======
+    margin: 0 auto;
+    width: 50%;
+>>>>>>> 174f60662d21c67715ad26742ac985acef4b2681
 }
 
 .sb-search.sb-search-open .sb-icon-search,
@@ -450,8 +473,13 @@ input:focus,textarea:focus{
 }
 
 .main-nav a{
+<<<<<<< HEAD
 	font-size:14px;
 	color:#6d7a83;
+=======
+	color: #fff;
+    font-size: 16px;
+>>>>>>> 174f60662d21c67715ad26742ac985acef4b2681
 	position:relative;
 	-webkit-transition: all 0.4s ease-in-out;
 	-moz-transition: all 0.4s ease-in-out;
@@ -469,7 +497,11 @@ input:focus,textarea:focus{
 
 .main-nav li.parent > a:after{
 	font-family:"FontAwesome";
+<<<<<<< HEAD
 	content:"\f107";
+=======
+	/*content:"\f107";*/
+>>>>>>> 174f60662d21c67715ad26742ac985acef4b2681
 	padding-left:4px;
 }
 
@@ -556,13 +588,22 @@ input:focus,textarea:focus{
 /*Banner*/
 .banner{
 	background:url(../img/banner.png) no-repeat left top;
+<<<<<<< HEAD
 	min-height:550px;
 	height:auto;
+=======
+	min-height:200px;
+	height:200px;
+>>>>>>> 174f60662d21c67715ad26742ac985acef4b2681
 	background-size:cover;
 }
 
 .banner .center{
+<<<<<<< HEAD
 	padding: 150px 0;
+=======
+	padding: 89px 0;
+>>>>>>> 174f60662d21c67715ad26742ac985acef4b2681
 	text-align:center;
 }
 
@@ -652,7 +693,11 @@ input:focus,textarea:focus{
 	position:relative;
 } 
 .eventform-con .form-input.search-location {
+<<<<<<< HEAD
 	width: 33%;
+=======
+	width: 65%;
+>>>>>>> 174f60662d21c67715ad26742ac985acef4b2681
 }
 .eventform-con .form-input.search-location input{
 	padding:0px 40px;
@@ -818,12 +863,54 @@ input:focus,textarea:focus{
 }
 
 .event{
+<<<<<<< HEAD
 	background:#fff;
 	font-size:14px;
 	font-weight:300;
 	text-align:center;
 
 }
+=======
+	background:#fff;	
+	font-weight:300;
+	text-align:left;
+}
+
+.event h3{
+	border-bottom: 2px solid #f77b2e;
+	color: #3b8dbd;
+    font-weight: normal;
+    padding: 10px 0;
+	margin-bottom : 15px;
+}
+
+.event ul{
+	font-size:12px;
+	padding: 5px 15px;
+}
+
+.event ul li{
+	border-bottom : 1px dashed #cfcfcf;
+	list-style: outside none none;
+}
+
+.event ul li a{
+	color:#000; 
+	text-decoration:none;
+}
+
+.event ul li a:hover{
+	color:#428bca;
+	text-decoration:none;
+}
+
+.event ul li a sup{
+	color: red;
+    font-size: 9px;
+    vertical-align: super;
+}
+
+>>>>>>> 174f60662d21c67715ad26742ac985acef4b2681
 .eventsimg{
 	overflow:hidden;
 }
@@ -867,6 +954,11 @@ input:focus,textarea:focus{
 	padding:15px 10px;
 }
 
+<<<<<<< HEAD
+=======
+
+
+>>>>>>> 174f60662d21c67715ad26742ac985acef4b2681
 .eventsimg{
 	position:relative;
 	display:inline-block;
@@ -991,6 +1083,29 @@ input:focus,textarea:focus{
 	border-right:0px;
 }
 
+<<<<<<< HEAD
+=======
+.event .info {
+	font-size : 12px;
+	padding : 10px 0;
+}
+
+.event .info b{
+	font-size : 14px;
+	padding : 5px 0;
+	font-weight : strong;
+}
+
+.event .lembaga{
+	-moz-column-count: 2; /* Firefox */
+    column-count: 2;
+}
+
+.event .info .key{
+	color : red;
+	font-weight : strong;
+}
+>>>>>>> 174f60662d21c67715ad26742ac985acef4b2681
 
 
 .rating{
@@ -1378,7 +1493,11 @@ input:focus,textarea:focus{
 
 .event-detail .title{
 	font-size:30px;
+<<<<<<< HEAD
 	font-weight:300;
+=======
+	font-weight:normal;
+>>>>>>> 174f60662d21c67715ad26742ac985acef4b2681
 	margin-bottom:15px;
 }
 
@@ -1387,8 +1506,13 @@ input:focus,textarea:focus{
 }
 
 .event-detail p{
+<<<<<<< HEAD
 	font-size:16px;
 	font-weight:300;
+=======
+	font-size: 14px;
+    font-weight: 300;
+>>>>>>> 174f60662d21c67715ad26742ac985acef4b2681
 }
 
 .event-detail img{
@@ -2412,7 +2536,11 @@ blockquote p{
 }
 
 #aside .header .arrow-down{
+<<<<<<< HEAD
 	border-top: 10px solid #735cb0;
+=======
+	border-top: 10px solid #4A96AD;
+>>>>>>> 174f60662d21c67715ad26742ac985acef4b2681
 	border-left: 10px solid transparent;
 	border-right: 10px solid transparent;
 	position: absolute;
@@ -2480,7 +2608,11 @@ blockquote p{
 
 
 #aside .categories a:before{
+<<<<<<< HEAD
 	content:"\f067";
+=======
+	/*content:"\f067";*/
+>>>>>>> 174f60662d21c67715ad26742ac985acef4b2681
 	font-family:"FontAwesome";
 	padding-right:15px;
 	color:#c3c8cd;
@@ -2918,6 +3050,7 @@ a,.login-details .pri-color,.login-details  a:hover,.main-nav a:hover,.event .li
 
 /*background-color-Two*/
 .eventform ,aside .header,.both-btn .but-ticket a,.sb-search.sb-search-open .sb-icon-search,.background .eventform-con .btn{
+<<<<<<< HEAD
 	background:#735cb0;
 }
 
@@ -2931,11 +3064,29 @@ a,.login-details .pri-color,.login-details  a:hover,.main-nav a:hover,.event .li
 
 .eventform-con .form-input input:-ms-input-placeholder {
 	color:#735cb0; 
+=======
+	background:#4A96AD;
+}
+
+.eventform-con .form-input .icon,.eventform-con .form-input input,.eventform-con .form-input input::-webkit-input-placeholder,.eventform-con .form-input .styled-select select{
+	color:#4A96AD;
+}
+
+.eventform-con .form-input input::-moz-placeholder{
+	color:#4A96AD;
+}
+
+.eventform-con .form-input input:-ms-input-placeholder {
+	color:#4A96AD; 
+>>>>>>> 174f60662d21c67715ad26742ac985acef4b2681
 }
 
 
 
+<<<<<<< HEAD
 
+=======
+>>>>>>> 174f60662d21c67715ad26742ac985acef4b2681
 /*!
  * jQuery UI Slider 1.10.4
  * http://jqueryui.com
