@@ -33,8 +33,8 @@ class Fokus extends CI_Controller {
 
             $d['all_fokus']	    = $this->app_model->get_all_fokus();
 
-            $d['content']           = $this->load->view('fokus/view',$d,true);
-            $this->load->view('main',$d);
+            $d['content']           = $this->load->view('admin/fokus/view',$d,true);
+            $this->load->view('admin/main',$d);
         }else{
             header('location:'.base_url());
         }
@@ -59,8 +59,8 @@ class Fokus extends CI_Controller {
             $d['code']      = $kode;
             $d['name']      = '';
 
-            $d['content']= $this->load->view('fokus/form',$d,true);
-            $this->load->view('main',$d);
+            $d['content']= $this->load->view('admin/fokus/form',$d,true);
+            $this->load->view('admin/main',$d);
         }else{
             header('location:'.base_url());
         }
@@ -119,8 +119,8 @@ class Fokus extends CI_Controller {
             }
 
 
-            $d['content']= $this->load->view('fokus/form',$d,true);
-            $this->load->view('main',$d);
+            $d['content']= $this->load->view('admin/fokus/form',$d,true);
+            $this->load->view('admin/main',$d);
         }else{
             header('location:'.base_url());
         }

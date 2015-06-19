@@ -37,8 +37,8 @@ class Indeks extends CI_Controller {
         $text = "SELECT * FROM tbl_fokus";
         $d['l_fokus'] = $this->app_model->manualQuery($text);
 
-        $d['content']= $this->load->view('indeks/form',$d,true);
-        $this->load->view('main',$d);
+        $d['content']= $this->load->view('admin/indeks/form',$d,true);
+        $this->load->view('admin/main',$d);
     }
 
     public function start(){
@@ -68,8 +68,8 @@ class Indeks extends CI_Controller {
         }
 
 
-        $d['content']= $this->load->view('indeks/form',$d,true);
-        $this->load->view('main',$d);
+        $d['content']= $this->load->view('admin/indeks/form',$d,true);
+        $this->load->view('admin/main',$d);
     }
 
 

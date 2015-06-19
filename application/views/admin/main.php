@@ -34,11 +34,11 @@
     <div class="sidebar" id="sidebar">
         <?php
         if($this->session->userdata('id_level')=='01'){
-            echo $this->load->view('menu_super');
+            echo $this->load->view('admin/menu_super');
         }elseif($this->session->userdata('id_level')=='02'){
-            echo $this->load->view('menu_admin');
+            echo $this->load->view('admin/menu_admin');
         }else{
-            echo $this->load->view('menu_user');
+            echo $this->load->view('admin/menu_user');
         }
         ?>
 

@@ -33,8 +33,8 @@ class Lembaga extends CI_Controller {
 
             $d['all_lembaga']	    = $this->app_model->get_all_lembaga();
 
-            $d['content']           = $this->load->view('lembaga/view',$d,true);
-            $this->load->view('main',$d);
+            $d['content']           = $this->load->view('admin/lembaga/view',$d,true);
+            $this->load->view('admin/main',$d);
         }else{
             header('location:'.base_url());
         }
@@ -59,8 +59,8 @@ class Lembaga extends CI_Controller {
             $d['code']      = '';
             $d['name']      = '';
 
-            $d['content']= $this->load->view('lembaga/form',$d,true);
-            $this->load->view('main',$d);
+            $d['content']= $this->load->view('admin/lembaga/form',$d,true);
+            $this->load->view('admin/main',$d);
         }else{
             header('location:'.base_url());
         }
@@ -119,8 +119,8 @@ class Lembaga extends CI_Controller {
             }
 
 
-            $d['content']= $this->load->view('lembaga/form',$d,true);
-            $this->load->view('main',$d);
+            $d['content']= $this->load->view('admin/lembaga/form',$d,true);
+            $this->load->view('admin/main',$d);
         }else{
             header('location:'.base_url());
         }

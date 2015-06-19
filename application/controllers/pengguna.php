@@ -28,8 +28,8 @@ class Pengguna extends CI_Controller {
 
             $d['all_pengguna']	    = $this->app_model->get_all_pengguna();
 
-            $d['content'] = $this->load->view('pengguna/view', $d, true);
-			$this->load->view('main',$d);
+            $d['content'] = $this->load->view('admin/pengguna/view', $d, true);
+			$this->load->view('admin/main',$d);
 		}else{
 			header('location:'.base_url());
 		}
@@ -57,8 +57,8 @@ class Pengguna extends CI_Controller {
 			$text = "SELECT * FROM tbl_level";
 			$d['l_level'] = $this->app_model->manualQuery($text);
 			
-			$d['content'] = $this->load->view('pengguna/form', $d, true);		
-			$this->load->view('main',$d);
+			$d['content'] = $this->load->view('admin/pengguna/form', $d, true);		
+			$this->load->view('admin/main',$d);
 		}else{
 			header('location:'.base_url());
 		}
@@ -99,8 +99,8 @@ class Pengguna extends CI_Controller {
 			$text = "SELECT * FROM level";
 			$d['l_level'] = $this->app_model->manualQuery($text);
 									
-			$d['content'] = $this->load->view('pengguna/form', $d, true);		
-			$this->load->view('main',$d);
+			$d['content'] = $this->load->view('admin/pengguna/form', $d, true);		
+			$this->load->view('admin/main',$d);
 		}else{
 			header('location:'.base_url());
 		}

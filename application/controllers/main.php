@@ -23,8 +23,8 @@ class Main extends CI_Controller {
         $d['judul']='dashboard';
         $d['judul_halaman']='Dashboard';
 
-        $d['content']= $this->load->view('dashboard',$d,true);
-        $this->load->view('main',$d);
+        $d['content']= $this->load->view('admin/dashboard',$d,true);
+        $this->load->view('admin/main',$d);
 
         }else{
             header('location:'.base_url().'index.php/login');

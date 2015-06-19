@@ -24,8 +24,8 @@ class Sites extends CI_Controller {
 
             $d['all_site']	    = $this->app_model->get_all_site();
 
-            $d['content']           = $this->load->view('sites/view',$d,true);
-            $this->load->view('main',$d);
+            $d['content']           = $this->load->view('admin/sites/view',$d,true);
+            $this->load->view('admin/main',$d);
         }else{
             header('location:'.base_url());
         }
@@ -56,8 +56,8 @@ class Sites extends CI_Controller {
             $text = "SELECT * FROM tbl_fokus";
             $d['l_fokus'] = $this->app_model->manualQuery($text);
 
-            $d['content']= $this->load->view('sites/form',$d,true);
-            $this->load->view('main',$d);
+            $d['content']= $this->load->view('admin/sites/form',$d,true);
+            $this->load->view('admin/main',$d);
         }else{
             header('location:'.base_url());
         }
@@ -156,8 +156,8 @@ class Sites extends CI_Controller {
             $text = "SELECT * FROM tbl_fokus";
             $d['l_fokus'] = $this->app_model->manualQuery($text);
 
-            $d['content']= $this->load->view('sites/form',$d,true);
-            $this->load->view('main',$d);
+            $d['content']= $this->load->view('admin/sites/form',$d,true);
+            $this->load->view('admin/main',$d);
 
         }else{
             header('location:'.base_url());
